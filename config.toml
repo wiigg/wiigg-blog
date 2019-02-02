@@ -1,8 +1,8 @@
-baseurl = "https://example.com/"
-title = "Ghostwriter example"
+baseurl = "https://wiigg.github.io"
+title = "New Blog"
 theme = "ghostwriter"
-languageCode = "en-us"
-copyright = "My Name"
+languageCode = "en-gb"
+copyright = "Danny Wigg"
 disqusShortname = "XXX"
 googleAnalytics = "XXX"
 
@@ -17,7 +17,7 @@ googleAnalytics = "XXX"
     useSessionStorage = false
 
 [Author]
-    name = "My Name"
+    name = "Danny Wigg"
     profile = "https://google.com/+XXX"
 
 [Taxonomies]
