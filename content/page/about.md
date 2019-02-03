@@ -7,7 +7,7 @@ tags = []
 draft = false
 +++
 
-![profile photo](/static/images/profile.jpg)
+![profile photo](/images/profile.jpg#align-center)
 
 I'm a technologist, avid lifelong learner and logician. I love open source, technology platforms and improving our planet for everyone and everything.
 
