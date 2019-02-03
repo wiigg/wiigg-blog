@@ -1,4 +1,4 @@
-baseurl = "https://wiigg.github.io"
+baseurl = "https://wiigg.github.io/"
 title = "New Blog"
 theme = "ghostwriter"
 languageCode = "en-gb"
