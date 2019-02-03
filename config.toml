@@ -1,5 +1,5 @@
 baseurl = "https://wiigg.github.io/"
-title = "New Blog"
+title = "wiigg blog"
 theme = "ghostwriter"
 languageCode = "en-gb"
 copyright = "Danny Wigg"
@@ -18,27 +18,27 @@ googleAnalytics = "XXX"
 
 [Author]
     name = "Danny Wigg"
-    profile = "https://google.com/+XXX"
+    profile = "https://twitter.com/wiigg"
 
 [Taxonomies]
     tag = "tags"
 
 [Params]
     intro = true
-    headline = "Ghostwriter example"
-    description = "Ghostwriter example description"
-    github = "https://github.com/XXX"
+    headline = "wiigg blog"
+    description = "Thoughts, stories and ideas of a technologist."
+    github = "https://github.com/wiigg"
     gitlab = "https://gitlab.com/XXX"
-    linkedin = "https://linkedin.com/in/XXX/"
+    linkedin = "https://linkedin.com/in/dannywigg/"
     gplus = "https://google.com/+XXX"
-    twitter = "https://twitter.com/XXX"
+    twitter = "https://twitter.com/wiigg"
     stackoverflow = "https://stackoverflow.com/users/XXX/YYY"
-    email = "XXX@example.com"
+    email = "danny@wiigg.eu"
     opengraph = true
     shareTwitter = true
-    shareFacebook = true
-    shareGooglePlus = true
-    shareLinkedIn = false
+    shareFacebook = false
+    shareGooglePlus = false
+    shareLinkedIn = true
     dateFormat = "Mon, Jan 2, 2006"
     highlightJsUrl = ""
     highlightJsLocalUrl = ""
@@ -59,13 +59,8 @@ googleAnalytics = "XXX"
 
 [[menu.main]]
     name = "Projects"
-    url = "/project/"
+    url = "/projects/"
     weight = 2
-
-[[menu.main]]
-    name = "Contact"
-    url = "/page/contact/"
-    weight = 3
 
 [[menu.main]]
     name = "About"
