@@ -1,4 +1,0 @@
-[submodule "wiigg.github.io"]
-	path = wiigg.github.io
-	url = https://github.com/wiigg/wiigg.github.io.git
-	branch = master
