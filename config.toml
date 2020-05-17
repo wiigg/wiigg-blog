@@ -56,7 +56,7 @@ url = "https://www.instagram.com/wiigg/"
   name = "About"
   weight = 200
   identifier = "about"
-  url = "/about"
+  url = "/about/"
 
   [[menu.main]]
   name = "Posts"
