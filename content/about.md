@@ -1,11 +1,8 @@
-+++
-title = "About"
-description = ""
-author = ""
-date = 2020-05-17T12:37:00Z
-tags = []
-draft = false
-+++
+---
+title: "About"
+date: 2020-05-17T13:35:42+01:00
+draft: false
+---
 
 I'm a technologist, logician and avid lifelong learner. I love technology platforms, open source and improving our planet for everyone and everything.
 
