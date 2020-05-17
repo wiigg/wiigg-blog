@@ -10,7 +10,7 @@ Residing just outside of London, UK, I am a Partner Technology Strategist at Mic
 
 Concurrently, I am studying for a [Master's degree in Computer Science](https://onlinelearning.seas.upenn.edu/mcit/) at the University of Pennsylvania.
 
-Beyond working and studying, you can often find me hitting the road in my Nike Air Zoom Pegasus', practising mindfulness, reading and learning as much as I can about anything and everything. In addition, I like (or at least attempt) to come up with solutions to [sustainability](https://en.wikipedia.org/wiki/Sustainability) issues facing the world today.
+Beyond working and studying, you can often find me hitting the road in my Nike Air Zoom Pegasus', practising mindfulness, reading and learning new things. In addition, I like (or at least attempt) to come up with solutions to [sustainability](https://en.wikipedia.org/wiki/Sustainability) issues facing the world today.
 
 This website will mostly be a collection of my thoughts, stories and ideas relating to any of these topics.
 
