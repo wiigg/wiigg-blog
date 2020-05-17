@@ -6,11 +6,13 @@ draft: false
 
 My name is Danny Wigg, a.k.a "wiigg", and I'm a technologist, [logician](https://www.16personalities.com/intp-personality) and avid lifelong learner. I love technology platforms, open source and improving our planet for everyone and everything.
 
-Residing just outside of London, UK, I am a Partner Technology Strategist at Microsoft. That is, I help Microsoft's partner ecosystem shape their technology roadmaps and build new products, solutions and services to take to market. Concurrently, I am studying for a [Master's degree in Computer Science](https://onlinelearning.seas.upenn.edu/mcit/) at the University of Pennsylvania.
+Residing just outside of London, UK, I am a Partner Technology Strategist at Microsoft. That is, I help Microsoft's partner ecosystem shape their technology roadmaps and build new products, solutions and services to take to market.
 
-While my background spans a heap of technologies, I have a zealous interest in [cloud native computing](https://en.wikipedia.org/wiki/Cloud_native_computing) and its ability to bring valuable services to people, communities and organisations at scale.
+Concurrently, I am studying for a [Master's degree in Computer Science](https://onlinelearning.seas.upenn.edu/mcit/) at the University of Pennsylvania.
 
-Beyond working and studying, you can often find me hitting the road in my Nike Air Zoom Pegasus', practising mindfulness, reading and learning as much as I can about anything and everything. In addition, I like (or at least attempt) to come up with solutions to [sustainability](https://en.wikipedia.org/wiki/Sustainability) and [social mobility](https://en.wikipedia.org/wiki/Social_mobility) issues facing the world today.
+While my background spans a heap of technologies and industries, I have a zealous interest in [cloud native computing](https://en.wikipedia.org/wiki/Cloud_native_computing) and its ability to bring valuable services to people, communities and organisations at scale.
+
+Beyond working and studying, you can often find me hitting the road in my Nike Air Zoom Pegasus', practising mindfulness, reading and learning as much as I can about anything and everything. In addition, I like (or at least attempt) to come up with solutions to [sustainability](https://en.wikipedia.org/wiki/Sustainability) issues facing the world today.
 
 This website will mostly be a collection of my thoughts, stories and ideas relating to any of these topics.
 
