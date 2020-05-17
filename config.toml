@@ -10,7 +10,7 @@ enableEmoji = true
 #disqusShortname = ""
 
 # Google Analytics
-#googleAnalytics = "UA-123-45"
+googleAnalytics = "UA-90548533-2"
 
 [params]
 title = "./wiigg"
