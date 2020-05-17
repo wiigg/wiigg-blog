@@ -1,68 +1,65 @@
-baseurl = "https://wiigg.uk/"
-title = "wiigg blog"
-theme = "ghostwriter"
-languageCode = "en-gb"
-copyright = "Danny Wigg"
-disqusShortname = "XXX"
-googleAnalytics = "XXX"
+baseURL = "https://wiigg.uk"
+languageCode = "en"
+DefaultContentLanguage = "en"
+title = "./wiigg"
+theme = "anatole"
+summarylength = 10
+enableEmoji = true
 
-[Privacy]
+# Enable Disqus
+#disqusShortname = ""
 
-[Privacy.disqus]
-    disable = true
+# Google Analytics
+#googleAnalytics = "UA-123-45"
 
-[Privacy.googleAnalytics]
-    anonymizeIP = true
-    respectDoNotTrack = true
-    useSessionStorage = false
+[params]
+title = "./wiigg"
+author = "Danny Wigg"
+description = "Technologist, logician, learner"
+profilePicture = "images/profile.jpg"
+keywords = ""
+favicon = "favicons/"
+customCss = []
 
-[Author]
-    name = "Danny Wigg"
-    profile = "https://twitter.com/wiigg"
+## Math settings
+[params.math]
+enable = false  # options: true, false. Enable math support globally, default: false. You can always enable math on per page.
+use = "katex"  # options: "katex", "mathjax". default is "katex".
 
-[Taxonomies]
-    tag = "tags"
+## Social links
+[[params.socialIcons]]
+icon = "fa-linkedin"
+title = "Linkedin"
+url = "https://www.linkedin.com/in/dannywigg/"
 
-[Params]
-    intro = true
-    headline = "wiigg blog"
-    description = "Thoughts, stories and ideas of a technologist."
-    github = "https://github.com/wiigg"
-    gitlab = "https://gitlab.com/XXX"
-    linkedin = "https://linkedin.com/in/dannywigg/"
-    gplus = "https://google.com/+XXX"
-    twitter = "https://twitter.com/wiigg"
-    stackoverflow = "https://stackoverflow.com/users/XXX/YYY"
-    email = "danny@wiigg.eu"
-    opengraph = true
-    shareTwitter = true
-    shareFacebook = false
-    shareGooglePlus = false
-    shareLinkedIn = true
-    dateFormat = "Mon, Jan 2, 2006"
-    highlightJsUrl = ""
-    highlightJsLocalUrl = ""
-    exponeaJsUrl = ""
-    exponeaTarget = ""
-    exponeaToken = ""
-    exponeaTrackVisits = false
-    readingTime = true
-    readingTimeText = "Estimated reading time:"
+[[params.socialIcons]]
+icon = "fa-github"
+title = "GitHub"
+url = "https://github.com/wiigg/"
 
-[Permalinks]
-    post = "/:year/:month/:day/:filename/"
+[[params.socialIcons]]
+icon = "fa-instagram"
+title = "instagram"
+url = "https://www.instagram.com/wiigg/"
 
-[[menu.main]]
-    name = "Blog"
-    url = "/"
-    weight = 1
+## Menu items
 
-[[menu.main]]
-    name = "Projects"
-    url = "/projects/"
-    weight = 2
+[menu]
 
-[[menu.main]]
-    name = "About"
-    url = "/page/about/"
-    weight = 4
+  [[menu.main]]
+  name = "Home"
+  identifier = "home"
+  weight = 100
+  url = "/"
+ 
+ [[menu.main]]
+  name = "About"
+  weight = 200
+  identifier = "about"
+  url = "/about"
+
+  [[menu.main]]
+  name = "Posts"
+  weight = 300
+  identifier = "posts"
+  url = "/posts/"
