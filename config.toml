@@ -1,4 +1,4 @@
-baseURL = "https://wiigg.uk"
+baseURL = "https://wiigg.uk/"
 languageCode = "en"
 DefaultContentLanguage = "en"
 title = "./wiigg"
