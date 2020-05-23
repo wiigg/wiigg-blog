@@ -63,8 +63,3 @@ url = "https://www.instagram.com/wiigg/"
   identifier = "about"
   url = "/about/"
 
-  [[menu.main]]
-  name = "Posts"
-  weight = 300
-  identifier = "posts"
-  url = "/posts/"
