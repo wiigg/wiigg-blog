@@ -31,4 +31,4 @@ Finally, it's more financially viable than the alternative. The ability to work 
 
 There is still some way to go as I'm only about 2/5 through the programme at the time of writing. I'm very much looking forward to bolstering my knowledge of computer science fundamentals and eager to explore new ground. With my newfound skills I already feel confident enough to work on my own software projects and accelerate my onward journey to a place where they are directly applicable.
 
-There are many other areas to cover in a post such as this, such as balancing the above with the argument of why *not* MCIT, but I am going to stop here since I better get back to working on my assignment.
+There are many other areas to cover in a post such as this, such as balancing the above with the argument of why *not* MCIT, but I am going to stop here since I better get back to working on my assignment :wink:
