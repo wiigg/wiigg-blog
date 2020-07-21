@@ -2,7 +2,7 @@
 title: "Why MCIT Online?"
 date: 2020-07-21T17:33:32+01:00
 Description: ""
-Tags: [mcit computerscience]
+Tags: [mcit, computer science]
 Categories: [university]
 DisableComments: false
 ---
