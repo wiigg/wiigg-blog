@@ -23,7 +23,7 @@ University of Pennsylvania is [one of the most highly regarded](https://www.time
 
 Anecdotally, so far I have found the course materials to be stimulating, coursework and exams challenging, and community inviting. To learn from my fellow classmates who are from a hugely diverse set of backgrounds, in terms of vocation, nationality and gender for example, adds to the richness of the experience. Everyone is supportive and courses are set up in such a way that it's easy to interact and seek guidance on a particuarly challenging concept.
 
-The degree is an almost exact replica of what's delivered on-campus, only tailored for flexibility and on-demand consumption. With many universities having moved to online-only and hybrid models of teaching during the current COVID-19 pandemic, I would even go as far to say as it is a pioneer in the [disruption the higher education is facing](https://www.youtube.com/watch?v=yUGn5ZdrDoU).
+The degree is an almost exact replica of what's delivered on-campus, only tailored for flexibility and on-demand consumption. With many universities having moved to online-only and hybrid models of teaching during the current COVID-19 pandemic, I would even go as far to say as it is a pioneer in the [disruption higher education is facing](https://www.youtube.com/watch?v=yUGn5ZdrDoU).
 
 Finally, it's more financially viable than the alternative. The ability to work and study simultaneously is critical for me. Growing up in the lower rungs of socioeconomic status, the prospect of paying tuition as well as the opportunity cost of going back to university full-time was harrowing. Now it's possible for me to advance my career and appease my appetite for learning at the same time for which I am especially grateful.
 
