@@ -1,5 +1,5 @@
 ---
-title: "Why MCIT Online?"
+title: "Why MCIT?"
 date: 2020-07-21T17:33:32+01:00
 Description: ""
 Tags: [mcit, computer science]
@@ -11,7 +11,7 @@ It has been over a year since [being admitted](https://twitter.com/wiigg/status/
 
 {{< twitter_simple 1139586622071234561 >}}
 
-## Why MCIT?
+## Why MCIT Online?
 
 Before jumping into the answer to that question right away, it's worth explaining why I aspire to a Master's degree in the first place. Ever since completing my undergraduate degree six years ago, I've had an unassailable desire to continue my education. I've always had a love of learning and stretching my mind to its limits. The vigorous in-depth pursuit of a field greatly appeals to me, plus the extra line on my CV is no bad thing either.
 
