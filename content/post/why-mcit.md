@@ -7,13 +7,13 @@ Categories: [university]
 DisableComments: false
 ---
 
-It has been over a year since [being admitted](https://twitter.com/wiigg/status/1139586622071234561) to UPenn's [Master of Computer and Information Technology (MCIT) online](https://onlinelearning.seas.upenn.edu/mcit/) degree and in that time I've been asked by coworkers, customers/partners, friends and family, "Why MCIT"? This post serves as a means to provide a response to that question.
+It has been over a year since [being admitted](https://twitter.com/wiigg/status/1139586622071234561) to UPenn's [Master of Computer and Information Technology (MCIT) online](https://onlinelearning.seas.upenn.edu/mcit/) degree and in that time I've been asked by coworkers, customers/partners, friends and family, "Why MCIT"?
 
 {{< twitter_simple 1139586622071234561 >}}
 
 ## Why MCIT?
 
-Before jumping into the answer to that question, first it's worth explaining why I aspire to a Master's degree in the first place. Ever since completing my undergraduate degree six years ago, I've had an unassailable desire to continue my education. I've always had a love of learning and stretching my mind to its limits. The vigorous in-depth pursuit of a field greatly appeals to me, plus the extra line on my CV is no bad thing either.
+Before jumping into the answer to that question right away, it's worth explaining why I aspire to a Master's degree in the first place. Ever since completing my undergraduate degree six years ago, I've had an unassailable desire to continue my education. I've always had a love of learning and stretching my mind to its limits. The vigorous in-depth pursuit of a field greatly appeals to me, plus the extra line on my CV is no bad thing either.
 
 My undergraduate degree is in business management, meaning I have no formal background in computer science; everything I knew before starting the programme was entirely self-taught. I've been tinkering with computers and code for as long as I can remember and the idea of bringing my understanding of the two fields together was (and of course, still is) attractive. Lack of training hasn't hindered me so far, though seeing as I have ~30 years of my career ahead of me and in conjunction with the world being [eaten by software](https://a16z.com/2011/08/20/why-software-is-eating-the-world/), my reasoning has only solidified.
 
@@ -25,7 +25,7 @@ Anecdotally, so far I have found the course materials to be stimulating, coursew
 
 The degree is an almost exact replica of what's delivered on-campus, only tailored for flexibility and on-demand consumption. With many universities having moved to online-only and hybrid models of teaching during the current COVID-19 pandemic, I would even go as far to say as it is a pioneer in the [disruption the higher education is facing](https://www.youtube.com/watch?v=yUGn5ZdrDoU).
 
-Finally, it's more financially viable than the alternative. The ability to work and study simultaneously is critical for me. Growing up in the lower rungs of socioeconomic status, the prospect of paying tuition as well as the opportunity cost of going back to university full-time was harrowing. Now it's possible for me to advance my career and appease my appetite for learning at the same time for which I am exceedingly grateful.
+Finally, it's more financially viable than the alternative. The ability to work and study simultaneously is critical for me. Growing up in the lower rungs of socioeconomic status, the prospect of paying tuition as well as the opportunity cost of going back to university full-time was harrowing. Now it's possible for me to advance my career and appease my appetite for learning at the same time for which I am especially grateful.
 
 ## What's next?
 
